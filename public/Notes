@@ -1,0 +1,26 @@
+Why React?
+- react allow us to write composable code
+- it is like sculping a scripture
+- or like using legos to build a huge lego sculpture
+- An live example is: for a navigation bar on any website, it could be a very long piece of code. and that is just one navigation bar. There are 
+    plenty of items within a web page itself and if we include everything in an html, it will be pagessssss long
+- That is where react, a morden framework comes in which introduces the concept of component, where we can put items in components. 
+    ie  - navigation bar component
+        - search bar component
+        - header component
+- Thereafter, putting all these components together to make something that is larger, building into the sculpture
+- more maintainable and more flexible
+
+Another reason why ppl like React => Declarative
+- opposite of declarative = imperative
+- Declarative = what should be done = tell me what to do and i will worry how to do
+- Imperative = how should it be done = describe to me step by step on how to do it and i will do it
+
+
+Why we have a HTML in javascript REactDOM.render() function
+- jsx = flavour of js which looks alot like html
+- intro of jsx to react => makes react become more declarative instead of imperative
+- With ReactDOM.render()
+- with jsx, we can write the usual HTML
+
+
